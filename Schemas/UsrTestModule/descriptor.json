@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "bc3e3166-481e-d5eb-11e0-471e6042a727",
+    "Name": "UsrTestModule",
+    "ModifiedOnUtc": "\/Date(1615288181000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "UsrTestModule",
+    "DependsOn": []
+  }
+}
